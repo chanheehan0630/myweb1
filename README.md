@@ -4,7 +4,10 @@
     Go to -> <a href="https://github.com/chanheehan0630/myweb1/blob/master/a.html">a.html</a>
   </li>
   <li>
-    Go to -> <a href="https://github.com/chanheehan0630/myweb1/b.html">b.html</a>
+    Go to -> <a href="b.html">b.html</a>
   </li>
 </ol>
-<a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
+<p>
+More Information<br>
+Please visit -> <a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
+</p>
