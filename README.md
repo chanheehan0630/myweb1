@@ -9,5 +9,5 @@
 </ol>
 <p>
 More Information<br>
-Please visit -> <a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
+Please visit -> <a href="https://www.w3schools.com/html/">HTML tutorial</a>
 </p>
