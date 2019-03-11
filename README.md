@@ -17,15 +17,15 @@
 <body>
   <ol>
     <li>
-      Go to -> <a href="a.html">a.html</a>
+      Go to -> <a href="a.html" target = "_blank" title = "a.html">a.html</a>
     </li >
     <li>
-     Go to -> <a href="b.html">b.html</a>
+     Go to -> <a href="b.html" target = "_blank" title = "b.html">b.html</a>
     </li>
   </ol>
   <p>
   More Information<br>
-  Please visit -> <a href="https://www.w3schools.com/html/">HTML tutorial</a>
+  Please visit -> <a href="https://www.w3schools.com/html/" target = "_blank" title = "html의 모든 것">HTML tutorial</a>
   </p>
 </body>
 <html>
